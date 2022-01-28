@@ -2,7 +2,7 @@
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-360/)
 # HenryBot
 
-Multifunctional Discord bot featuring functions such as moderation, music, fun modules etc. 
+Multifunctional Discord bot featuring functions such as moderation, music, fun modules etc. (for private use)
 
 ## Features
 
